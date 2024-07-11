@@ -1,0 +1,18 @@
+[submodule "cad/pcbs/libs/ki-lime-pi-to-go"]
+	path = cad/pcbs/libs/ki-lime-pi-to-go
+	url = https://github.com/recursivenomad/ki-lime-pi-to-go
+[submodule "cad/pcbs/libs/MX_V2"]
+	path = cad/pcbs/libs/MX_V2
+	url = https://github.com/ai03-2725/MX_V2
+[submodule "cad/pcbs/libs/kicad_lib_tmk"]
+	path = cad/pcbs/libs/kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk
+[submodule "cad/pcbs/libs/keyboard_parts.pretty"]
+	path = cad/pcbs/libs/keyboard_parts.pretty
+	url = https://github.com/tmk/keyboard_parts.pretty
+[submodule "cad/pcbs/libs/random-keyboard-parts.pretty"]
+	path = cad/pcbs/libs/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+[submodule "cad/pcbs/libs/Type-C.pretty"]
+	path = cad/pcbs/libs/Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty
