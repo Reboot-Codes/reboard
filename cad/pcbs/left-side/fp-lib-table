@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Module_RaspberryPi_Pico")(type "KiCad")(uri "/home/reboot/dev/reboard/cad/pcbs/libs/ki-lime-pi-to-go/Module_RaspberryPi_Pico.pretty")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "KiCad")(uri "/home/reboot/dev/reboard/cad/pcbs/libs/keyboard_parts.pretty")(options "")(descr ""))
+  (lib (name "MX_Hotswap")(type "KiCad")(uri "/home/reboot/dev/reboard/cad/pcbs/libs/MX_V2/MX_Hotswap.pretty")(options "")(descr ""))
+)
